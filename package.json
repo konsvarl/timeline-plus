@@ -1,5 +1,5 @@
 {
-  "name": "timeline-plus",
+  "name": "timeline-plus-plus",
   "version": "2.3.5",
   "description": "",
   "main": "./dist/timeline.js",
@@ -17,14 +17,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yotamberk/timeline-plus.git"
+    "url": "git+https://github.com/konsvarl/timeline-plus.git"
   },
-  "author": "",
+  "author": "konsvarl",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/yotamberk/timeline-plus/issues"
-  },
-  "homepage": "http://yotamberk.github.io/timeline-plus",
+  "homepage": "https://github.com/konsvarl/timeline-plus",
   "scripts": {
     "build": "gulp",
     "lint": "gulp lint",
